@@ -1,7 +1,8 @@
-li{
+.one{
     display: inline-block;
     color: brown;
     text-align: center;
+    margin-top: 20px;
 }
 h1{
     color: brown;
@@ -11,4 +12,44 @@ h1{
 }
 h2{
     color: crimson;
+}
+button{
+    color: white;
+    background-color: brown;
+}
+li{
+    display: inline-block;
+    color:blue;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    background-color: blanchedalmond;
+    padding: 30px;
+}
+#one{
+    font-style: italic;
+    font-size: xx-large;
+    height: 500px;
+    background-image: url(lets\ travel.webp);
+    background-size: cover;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    color: brown;
+}
+h4{
+    text-align: center;
+    font-style: italic;
+    color: brown;
+    text-decoration: underline;
+}
+footer{
+    height: 500px;
+    background-color: crimson;
 }
